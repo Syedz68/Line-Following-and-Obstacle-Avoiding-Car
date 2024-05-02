@@ -12,3 +12,6 @@ Ultrasonic sensor (HC-SR04) was used in case of object detecting. It was attache
 
 // Images of the car 
 
+![440293057_455185373748645_1633431508641579741_n](https://github.com/Syedz68/Line-Following-and-Obstacle-Avoiding-Car/assets/107263740/b0638aeb-e534-478e-b403-7b663bc4941c)
+
+![440148990_3726080414329049_721996054323381373_n](https://github.com/Syedz68/Line-Following-and-Obstacle-Avoiding-Car/assets/107263740/a581420d-04f6-44b4-8781-7abbf04b0949)
